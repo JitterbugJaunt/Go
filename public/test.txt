@@ -1,0 +1,3 @@
+this is a text file
+
+and now i can see it in the browser

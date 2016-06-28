@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "rk/QFSfmdW9TPNUWU6p5FUBIL3U=",
+			"path": "github.com/gorilla/context",
+			"revision": "aed02d124ae4a0e94fea4541c8effd05bf0c8296",
+			"revisionTime": "2016-05-25T20:33:19Z"
+		},
+		{
+			"checksumSHA1": "mjCVp4q441GB4CevW5ULCINE774=",
+			"path": "github.com/gorilla/mux",
+			"revision": "9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e",
+			"revisionTime": "2016-06-05T23:35:21Z"
+		},
+		{
+			"checksumSHA1": "gT7FS4svzrnJiiQh7uFEopffOb8=",
+			"path": "github.com/gorilla/pat",
+			"revision": "cf955c3d1f2c27ee96f93e9738085c762ff5f49d",
+			"revisionTime": "2016-04-13T04:16:32Z"
+		},
+		{
+			"checksumSHA1": "VhxFb/PQMwjcfhupOQmECptmx/s=",
+			"path": "github.com/russross/blackfriday",
+			"revision": "1d6b8e9301e720b08a8938b8c25c018285885438",
+			"revisionTime": "2016-05-31T11:12:24Z"
+		},
+		{
+			"checksumSHA1": "VpvA+q07pWsZsP0H63ElxzhlKXM=",
+			"path": "github.com/shurcooL/sanitized_anchor_name",
+			"revision": "10ef21a441db47d8b13ebcc5fd2310f636973c77",
+			"revisionTime": "2015-10-28T00:19:15Z"
+		}
+	],
+	"rootPath": "github.com/jitterbugjaunt/goweb"
+}
